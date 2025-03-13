@@ -1,0 +1,44 @@
+.miasta {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 60px;
+}
+
+.gap {
+    margin-left: 60px;
+    margin-right: -50px;
+}
+
+.echo
+{
+    width:max-content;
+    background-color:transparent;
+}
+
+.miejsce
+{
+    background-color:black;
+    width:50px;
+    height:50px;
+    margin: 5px 5px;
+    display: inline-block;
+}
+
+.ekran
+{
+    height:25px;
+    width:44vw;
+    color:black;
+    background-color:grey;
+    position: relative;
+    left: 55vw;  
+}
+
+#sala
+{
+    display:flex;
+    justify-content:right;
+    padding: 300px 100px 100px 100px;
+    position:relative;
+    right:2vw;
+}

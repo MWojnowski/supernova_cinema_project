@@ -1,0 +1,53 @@
+@import "bootstrap/scss/bootstrap";
+.bi {
+  fill: currentColor;
+}
+
+
+
+$bg-dark: #343a40;
+
+@import "kontakt";
+@import "loginRegister";
+@import "repertuar";
+@import "slider";
+@import "controlPanel";
+@import "vip";
+@import "slider";
+
+
+
+body {
+  padding: 3rem 1.5rem;
+  font-family: "Yu Gothic UI Semilight", monospace;
+}
+
+li a {
+  font-size: larger;
+}
+
+nav {
+  font-family: 'Source Code Pro', monospace;
+  border-radius: 10px;
+  background-color: #105db1;
+}
+
+footer{
+  margin-top: 10%;
+}
+
+.maintitle{
+  display: flex;
+  justify-content: center;
+  font-size: 5em;
+
+}
+
+.maintext{
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+
+
+
+}
